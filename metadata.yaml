@@ -1,5 +1,8 @@
 _repo: A-book-of-women-s-verse_74619
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74619-h/images/cover.jpg
 creator:
   editor:
     agent_name: Squire, John Collings, Sir
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35258
     wikipedia: https://en.wikipedia.org/wiki/J._C._Squire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74619#A-book-of-women-s-verse
 gutenberg_issued: '2024-10-21'
 gutenberg_type: Text
 identifiers:
